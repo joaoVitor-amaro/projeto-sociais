@@ -47,7 +47,7 @@ section#redes-sociais {
     padding: 5px; 
 }
 
-section#redes-sociais nav#itens_navegacao {
+section#redes-sociais div#itens_navegacao {
     display: none;
     margin: 3px;
 }

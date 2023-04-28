@@ -19,3 +19,7 @@ a {
     text-align: center;
     font-weight: bolder;
 }
+
+a:hover {
+    background-color: red;
+}
